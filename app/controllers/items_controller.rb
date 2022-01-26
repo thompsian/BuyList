@@ -29,7 +29,7 @@ class ItemsController < ApplicationController
     end
 
     private
-    def location_params
+    def item_params
         params.require(:item).permit(:name, :category, :location_id)
     end
 
