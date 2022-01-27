@@ -9,6 +9,8 @@
 
 * RSPEC version 5.0
 
+* Postgresql version 14
+
 ### Branches are the planned stages of development:
 
 1. MVP - Can add shopping locations and items for each location
